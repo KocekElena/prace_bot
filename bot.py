@@ -1,6 +1,6 @@
 import os
 import logging
-import requestshttps://github.com/KocekElena/prace_bot/tree/main
+import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
